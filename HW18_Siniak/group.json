@@ -1,0 +1,56 @@
+{
+    "class_name": "Group",
+    "teachers": [
+        {
+            "class_name": "Teacher",
+            "firstname": "Olena",
+            "lastname": "Vilka",
+            "phone": "trinolyatrulyalya2",
+            "subject": "English"
+        },
+        {
+            "class_name": "Teacher",
+            "firstname": "Oksana",
+            "lastname": "Shmaly",
+            "phone": "0991234756",
+            "subject": "Programming"
+        }
+    ],
+    "students": [
+        {
+            "class_name": "Student",
+            "firstname": "Ivasyk",
+            "lastname": "Bulkin",
+            "phone": "trinolyatrulyalya",
+            "group": "Python11"
+        },
+        {
+            "class_name": "Student",
+            "firstname": "Grigoiy",
+            "lastname": "Terkin",
+            "phone": "+387415874165",
+            "group": "Python21"
+        },
+        {
+            "class_name": "Student",
+            "firstname": "Anna",
+            "lastname": "Chechetkina",
+            "phone": "+04478451235",
+            "group": "C++14"
+        },
+        {
+            "class_name": "Student",
+            "firstname": "Svetlana",
+            "lastname": "Bulkina",
+            "phone": "trinolyatrulyalya2",
+            "group": "Python11"
+        },
+        {
+            "class_name": "Student",
+            "firstname": "Anatloiy",
+            "lastname": "Fedorov",
+            "phone": "0991234756",
+            "group": "C++17"
+        }
+    ]
+}
